@@ -1,0 +1,25 @@
+﻿@model IEnumerable<Bartender_Application.Models.DrinkMenu>
+
+<h2>Drink Menu</h2>
+<table>
+    <tr>
+        <th>Name</th>
+        <th>Price</th>
+        <th>Order</th>
+    </tr>
+    @foreach (var drink in Model)
+    {
+        <tr>
+            <td>@drink.Name</td>
+            <td>@drink.Price</td>
+            <td>
+                @using (Html.BeginForm("PlaceOrder", "Home", FormMethod.Post))
+                {
+                    <input type="hidden" name="drinkId" value="@drink.ID" />
+                    <input type="text" name="customerName" placeholder="Your Name" required />
+                    <input type="submit" value="Order" />
+                }
+            </td>
+        </tr>
+    }
+</table>

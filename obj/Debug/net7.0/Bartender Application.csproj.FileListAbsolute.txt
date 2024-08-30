@@ -1,0 +1,31 @@
+/Users/leilalokman/Projects/Bartender Application/Bartender Application/bin/Debug/net7.0/appsettings.Development.json
+/Users/leilalokman/Projects/Bartender Application/Bartender Application/bin/Debug/net7.0/appsettings.json
+/Users/leilalokman/Projects/Bartender Application/Bartender Application/bin/Debug/net7.0/Bartender Application.staticwebassets.runtime.json
+/Users/leilalokman/Projects/Bartender Application/Bartender Application/bin/Debug/net7.0/Bartender Application
+/Users/leilalokman/Projects/Bartender Application/Bartender Application/bin/Debug/net7.0/Bartender Application.deps.json
+/Users/leilalokman/Projects/Bartender Application/Bartender Application/bin/Debug/net7.0/Bartender Application.runtimeconfig.json
+/Users/leilalokman/Projects/Bartender Application/Bartender Application/bin/Debug/net7.0/Bartender Application.dll
+/Users/leilalokman/Projects/Bartender Application/Bartender Application/bin/Debug/net7.0/Bartender Application.pdb
+/Users/leilalokman/Projects/Bartender Application/Bartender Application/obj/Debug/net7.0/Bartender Application.csproj.AssemblyReference.cache
+/Users/leilalokman/Projects/Bartender Application/Bartender Application/obj/Debug/net7.0/Bartender Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/leilalokman/Projects/Bartender Application/Bartender Application/obj/Debug/net7.0/Bartender Application.AssemblyInfoInputs.cache
+/Users/leilalokman/Projects/Bartender Application/Bartender Application/obj/Debug/net7.0/Bartender Application.AssemblyInfo.cs
+/Users/leilalokman/Projects/Bartender Application/Bartender Application/obj/Debug/net7.0/Bartender Application.csproj.CoreCompileInputs.cache
+/Users/leilalokman/Projects/Bartender Application/Bartender Application/obj/Debug/net7.0/Bartender Application.MvcApplicationPartsAssemblyInfo.cache
+/Users/leilalokman/Projects/Bartender Application/Bartender Application/obj/Debug/net7.0/Bartender Application.RazorAssemblyInfo.cache
+/Users/leilalokman/Projects/Bartender Application/Bartender Application/obj/Debug/net7.0/Bartender Application.RazorAssemblyInfo.cs
+/Users/leilalokman/Projects/Bartender Application/Bartender Application/obj/Debug/net7.0/staticwebassets/msbuild.Bartender Application.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/leilalokman/Projects/Bartender Application/Bartender Application/obj/Debug/net7.0/staticwebassets/msbuild.build.Bartender Application.props
+/Users/leilalokman/Projects/Bartender Application/Bartender Application/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.Bartender Application.props
+/Users/leilalokman/Projects/Bartender Application/Bartender Application/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.Bartender Application.props
+/Users/leilalokman/Projects/Bartender Application/Bartender Application/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/leilalokman/Projects/Bartender Application/Bartender Application/obj/Debug/net7.0/staticwebassets.build.json
+/Users/leilalokman/Projects/Bartender Application/Bartender Application/obj/Debug/net7.0/staticwebassets.development.json
+/Users/leilalokman/Projects/Bartender Application/Bartender Application/obj/Debug/net7.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/leilalokman/Projects/Bartender Application/Bartender Application/obj/Debug/net7.0/scopedcss/bundle/Bartender Application.styles.css
+/Users/leilalokman/Projects/Bartender Application/Bartender Application/obj/Debug/net7.0/scopedcss/projectbundle/Bartender Application.bundle.scp.css
+/Users/leilalokman/Projects/Bartender Application/Bartender Application/obj/Debug/net7.0/Bartender Application.dll
+/Users/leilalokman/Projects/Bartender Application/Bartender Application/obj/Debug/net7.0/refint/Bartender Application.dll
+/Users/leilalokman/Projects/Bartender Application/Bartender Application/obj/Debug/net7.0/Bartender Application.pdb
+/Users/leilalokman/Projects/Bartender Application/Bartender Application/obj/Debug/net7.0/Bartender Application.genruntimeconfig.cache
+/Users/leilalokman/Projects/Bartender Application/Bartender Application/obj/Debug/net7.0/ref/Bartender Application.dll
